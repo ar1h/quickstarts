@@ -1,3 +1,4 @@
+
 camel-log: Demonstrates how to use logging with Camel
 ======================================================
 Author: Fuse Team  
